@@ -201,20 +201,6 @@ const content = {
                 ]
             },
             {
-                title: "Taux de Participation",
-                content: [
-                    "<strong>Objectif :</strong> 90% de taux de participation active",
-                    "<strong>Mesure :</strong> Suivi des présences et accompagnement au démarrage de la formation"
-                ]
-            },
-            {
-                title: "Taux d’Insertion Professionnelle",
-                content: [
-                    "<strong>Objectif :</strong> 70% des participants créent leur auto-entreprise ou améliorent leur gestion dans les 6 mois suivant la formation",
-                    "<strong>Mesure :</strong> Suivi post-formation et enquêtes auprès des participants"
-                ]
-            },
-            {
                 title: "Amélioration des Compétences",
                 content: [
                     "<strong>Objectif :</strong> 80% des participants déclarent une amélioration significative de leurs compétences en gestion d’entreprise",
@@ -228,20 +214,6 @@ const content = {
                     "<strong>Mesure :</strong> Questionnaire de recommandation à la fin de la formation"
                 ]
             },
-            {
-                title: "Accessibilité et Inclusion",
-                content: [
-                    "<strong>Objectif :</strong> 100% des demandes d’aménagement pour personnes handicapées satisfaites",
-                    "<strong>Mesure :</strong> Suivi des demandes et des aménagements mis en place"
-                ]
-            },
-            {
-                title: "Délais de Réponse et Suivi Personnalisé",
-                content: [
-                    "<strong>Objectif :</strong> Répondre à 100% des demandes de support et questions des participants sous 48 heures",
-                    "<strong>Mesure :</strong> Suivi des délais de réponse et satisfaction des participants"
-                ]
-            }
         ]
     },
     additional: {

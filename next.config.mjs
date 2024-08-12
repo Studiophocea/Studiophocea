@@ -13,7 +13,6 @@
 }*/
 
 const nextConfig = {
-    basePath: '/Studiophocea',
     output: 'export',
     reactStrictMode: true,
     images: {

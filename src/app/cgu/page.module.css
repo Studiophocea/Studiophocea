@@ -1,0 +1,71 @@
+.mainContainer {
+    background: #dddddd;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #fff; /* Set background color to white */
+    color: #000; /* Set text color to black */
+}
+
+.container h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #000; /* Set heading color to black */
+    margin-bottom: 40px;
+}
+
+.container h2 {
+    font-size: 1.75rem;
+    color: #000; /* Set subheading color to black */
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd; /* Light gray border */
+    padding-bottom: 5px;
+}
+
+.container p {
+    font-size: 1.1rem;
+    color: #333; /* Set paragraph text to a dark gray for a softer contrast */
+}
+
+.container ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.container li {
+    font-size: 1.1rem;
+    color: #333; /* Set list item text to dark gray */
+    margin-bottom: 10px;
+}
+
+.container strong {
+    color: #000; /* Bold text should be black */
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    .container h1 {
+        font-size: 2rem;
+    }
+
+    .container h2 {
+        font-size: 1.5rem;
+    }
+
+    .container p {
+        font-size: 1rem;
+    }
+
+    .container li {
+        font-size: 1rem;
+    }
+}

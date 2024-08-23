@@ -29,7 +29,9 @@
 }
 
 .container p {
-    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
     color: #333; /* Set paragraph text to a dark gray for a softer contrast */
 }
 
@@ -39,7 +41,8 @@
 }
 
 .container li {
-    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
     color: #333; /* Set list item text to dark gray */
     margin-bottom: 10px;
 }

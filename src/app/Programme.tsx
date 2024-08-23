@@ -42,6 +42,13 @@ export const Programme = () => {
                                     <li key={index}>{delay}</li>
                                 ))}
                             </ul>
+                            <li>{content.programme.modalities.address}</li>
+                            <li>{content.programme.modalities.horaires.title}</li>
+                            <ul>
+                                {content.programme.modalities.horaires.content.map((delay, index) => (
+                                    <li key={index}>{delay}</li>
+                                ))}
+                            </ul>
                         </ul>
                     </SimpleBoxContent>
                     <SimpleBoxContent title={content.programme.costs.title} content={content.programme.costs.content}

@@ -7,7 +7,7 @@ const content = {
         },
         format: {
             title: "Format de la Formation",
-            content: "<strong>Type :</strong> E-learning (Formation en ligne)"
+            content: "<strong>Type :</strong> Présentielle"
         },
         goals: {
             title: "Objectifs",
@@ -176,6 +176,14 @@ const content = {
                     "CPF : Délai de 10 jours ouvrés.",
                     "Financement personnel : Identifiants envoyés sous 24 heures par courriel"
                 ]
+            },
+            address: "À Marseille les 10/03/2024 et 11/03/2024 au babel community (68 rue de la république 13001 Marseille). ",
+            horaires: {
+                title: "Horaires",
+                content: [
+                    "10/03/2024 : 13h à 17h30",
+                    "11/03/2024 : 9h à 12h30 / 13h30 à 17h"
+                ]
             }
         },
         costs: {
@@ -221,6 +229,7 @@ const content = {
             title: "Méthodes mobilisées",
             content: [
                 "<strong>Cours en ligne :</strong> Documents téléchargeables, cours écrits sous forme de diaporama",
+                "<strong>Documents: </strong> Formation imprimée sous forme de livret.",
                 "<strong>Supports écrits :</strong> « Le guide de l’auto-entrepreneur »",
                 "<strong>Exercices pratiques :</strong> Études de cas",
                 "<strong>Suivi personnalisé :</strong> Entretien avec le formateur si difficultés, forums de discussion, accès à un conseiller."

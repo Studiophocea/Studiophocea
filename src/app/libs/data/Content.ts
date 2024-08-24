@@ -181,8 +181,7 @@ const content = {
             horaires: {
                 title: "Horaires",
                 content: [
-                    "10/03/2024 : 13h à 17h30",
-                    "11/03/2024 : 9h à 12h30 / 13h30 à 17h"
+                    "date à fixer"
                 ]
             }
         },
